@@ -1,1 +1,33 @@
+.game{
+    background-color: #38AB80;
+}
+.sleep{
+    background-color: #D1D6CF;
+}
+.blue{
+    background-color: #6993BD;
+}
+.banana{
+    background-color: #F5DA68;
+}
+.mint{
+    background-color: #B1D4CC;
+}
 
+.game,.sleep,.blue,.banana,.mint{
+    padding: 20px;
+    margin: 20px;
+    width: 300px; 
+}
+.game img,.sleep img,.blue img,.banana img,.mint img{
+    width: 250px; 
+    margin-left: 20px;
+}
+.game p,.sleep p,.blue p,.banana p,.mint p{
+    color: azure;
+    text-align: center;
+}
+.game h2,.sleep h2,.blue h2,.banana h2,.mint h2{
+    color: azure;
+    text-align: center;
+}
